@@ -6,3 +6,5 @@ From a PowerShell window, run `. { iwr -useb https://raw.githubusercontent.com/k
 
 Even works in embedded terminals:
 ![image](https://github.com/k-w-1/no-spoon/assets/68672040/9cf1b68d-4a4f-4501-8cc0-32b5ba28d169)
+
+As noted in the top of the copy of the script here in this repo, credit to Reddit user [u/Ecrofirt](https://www.reddit.com/user/Ecrofirt/) for the code they posted [here](https://www.reddit.com/r/PowerShell/comments/rlkacf/powershell_matrix_simulator/).
